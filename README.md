@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fwoerister
-- 👀 I’m interested in Computer Science Education
+- 📚💻 I’m interested in Computer Science Education
 - 🌱 I’m currently learning Python, Machine Learning
 
 <!---
