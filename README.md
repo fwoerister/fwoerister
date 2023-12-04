@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fwoerister
 - 📚💻 I’m interested in Computer Science Education
-- 🌱 I’m currently learning Python, Machine Learning
+- 🌱 I’m currently learning Vue.js and TypeScript
 
 <!---
 fwoerister/fwoerister is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
